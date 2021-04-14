@@ -27,8 +27,8 @@ https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activit
 
 Census API Data in Data folder in Repo
 
-Machine Learning Model: Linear Regression
-![Linear Regression Model](/images/ml_model.png)
+Machine Learning Model: 
+![Linear Regression Model](Images/ml_model.png)
 
 Getting started
 
