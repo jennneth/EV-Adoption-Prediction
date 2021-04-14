@@ -10,7 +10,8 @@ We started our project with the idea of predicting the adoption of Electric Vehi
 
 The frameworks we used to build this project are as follows:
 
-Python Pandas
+Python
+Pandas
 Tableau
 ML
 
@@ -26,6 +27,8 @@ https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activit
 
 Census API Data in Data folder in Repo
 
+Machine Learning Model: Linear Regression
+![Linear Regression Model](images\ml_model.png)
 
 Getting started
 
@@ -43,7 +46,7 @@ To get a local copy of this project follow the steps below:
 Install Packages as needed:
 Pandas
 Scikit
-Tabluea
+Tableau
 API
 Numpy
 Matplotlib
