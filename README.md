@@ -47,3 +47,10 @@ Matplotlib
 
 Clone the repo  
 git clone git@github.com:jennneth/EV-Adoption-Prediction.git
+
+Original Project collaboration with:  
+Sonny Maz  
+Alvin McCray  
+Arthur An  
+JB Kinlacheeny  
+Jen Johansson
