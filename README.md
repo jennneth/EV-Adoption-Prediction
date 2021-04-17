@@ -15,8 +15,8 @@ We used a **Linear Regression Machine Learning Engine** to predict the trend in 
 
 ## The frameworks we used to build this project are as follows:
 
-Python Pandas
-Tableau
+Python Pandas  
+Tableau  
 Machine Learning: Linear Regression
 
 
@@ -29,15 +29,14 @@ https://afdc.energy.gov/stations/states
 Washington State Electric Vehicle Registration Activity Data
 https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity
 
-Census API Data in Data folder in Repo
+Census API Data 
+Collected in Data folder for future regression analysis
 
-Machine Learning Model: 
-![Linear Regression Model](Images/ml_model.png)
 
-Getting started
+
+## Getting started
 
 Prerequisite
-
 Specific softwares needed to install:
 Pandas
 Scikit
