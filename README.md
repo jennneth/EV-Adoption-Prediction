@@ -37,22 +37,22 @@ Collected in Data folder for future regression analysis
 ## Getting started
 
 Prerequisite
-Specific softwares needed to install:
-Pandas
-Scikit
-Tableau
-API
-Numpy
-Matplotlib
+Specific softwares needed to install:  
+Pandas  
+Scikit  
+Tableau  
+API  
+Numpy  
+Matplotlib  
 
-To get a local copy of this project follow the steps below:
-Install Packages as needed:
-Pandas
-Scikit
-Tableau
-API
-Numpy
-Matplotlib
+To get a local copy of this project follow the steps below:  
+Install Packages as needed:  
+Pandas  
+Scikit  
+Tableau  
+API  
+Numpy  
+Matplotlib  
 
-Clone the repo
+Clone the repo  
 git clone git@github.com:jennneth/EV-Adoption-Prediction.git
