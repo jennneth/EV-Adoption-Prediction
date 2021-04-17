@@ -4,7 +4,7 @@ https://public.tableau.com/profile/sonny5205#!/vizhome/Project-3_16180781413350/
 
 We started our project with the idea of predicting the adoption of Electric Vehicles in different parts of the US. With limited access to all the necessary data we decided to use the data we were able to find to narrow our scope to a metroplitan area (Seattle, Washington) instead of the entiriety of the US.  
 
-![Adoption Trend of Electric Vehicles Titled in WA State](Images/WA_EV_Adoption Trend.png)
+![Adoption Trend of Electric Vehicles Titled in WA State](Images/WA_EV_Adoption_Trend.png)
 
 The frameworks we used to build this project are as follows:
 
